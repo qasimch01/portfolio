@@ -1,0 +1,96 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Custom Web Application Development",
+        "slug": "custom-web-application-development",
+        "description": "Build tailor-made web applications that meet your specific business needs and enhance user experiences with our expert development team.",
+        "price": 1000.99,
+        "provider": "Everse",
+        "isFeatured": true,
+        "image": "/courses/web.jpg"
+       
+      },
+      {
+        "id": 2,
+        "title": "Mobile App Development",
+        "slug": "mobile-app-development",
+        "description": "Create high-performance mobile applications for iOS and Android platforms with our end-to-end development solutions.",
+        "price": 500.99,
+        "provider": "Everse",
+        "isFeatured": true,
+         "image": "/courses/app.jpg"
+      },
+      {
+        "id": 3,
+        "title": "UI/UX Design Services",
+        "slug": "ui-ux-design-services",
+        "description": "Enhance your product’s user experience and interface with our innovative UI/UX design services, ensuring intuitive and engaging interactions.",
+        "price": 300.99,
+        "provider": "Everse",
+        "isFeatured": false,
+         "image": "/courses/uiux.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Business Development Consulting",
+        "slug": "business-development-consulting",
+        "description": "Drive growth and success with our business development consulting services, tailored to help you navigate and excel in your market.",
+        "price": 200.99,
+        "provider": "Everse",
+        "isFeatured": true,
+         "image": "/courses/businessdev.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Full-Stack Development Solutions",
+        "slug": "full-stack-development-solutions",
+        "description": "Leverage our full-stack development expertise to build robust, scalable applications that address both front-end and back-end needs.",
+        "price": 500.99,
+        "provider": "Everse",
+        "isFeatured": false,
+         "image": "/courses/pmanagmnt.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Cloud Integration Services",
+        "slug": "cloud-integration-services",
+        "description": "Optimize your IT infrastructure with our cloud integration services, enabling seamless and efficient cloud-based solutions for your business.",
+        "price": 700.99,
+        "provider": "Everse",
+        "isFeatured": false,
+        "image": "/courses/cloudcomp.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Agile Project Management",
+        "slug": "agile-project-management",
+        "description": "Implement Agile methodologies to enhance project management and delivery, ensuring adaptability and efficiency in your development processes.",
+        "price": 500.99,
+        "provider": "Everse",
+        "isFeatured": true,
+        "image": "/courses/agile.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Cybersecurity Solutions",
+        "slug": "cybersecurity-solutions",
+        "description": "Protect your digital assets with our comprehensive cybersecurity solutions, safeguarding your applications and data from potential threats.",
+        "price": 500.99,
+        "provider": "Everse",
+        "isFeatured": false,
+         "image": "/courses/cybers.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Data Analytics and Insights",
+        "slug": "data-analytics-and-insights",
+        "description": "Gain valuable insights from your data with our advanced analytics services, helping you make informed decisions and drive business growth.",
+        "price": 499.99,
+        "provider": "Everse",
+        "isFeatured": true,
+         "image": "/courses/dataanals.jpg"
+      }
+    ]
+  }
+  
